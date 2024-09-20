@@ -26,7 +26,9 @@
   
    <img align="center" alt="Gil-OpenGL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
 
-   <img align="center" alt="Gil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react.svg">
+  <img align="center" alt="Gil-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/posrgresql/postgresql-original.svg">
+
+   <img align="center" alt="Gil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div>
   
